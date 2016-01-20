@@ -1,4 +1,4 @@
-# Androd-ProgressBar-Circulear
+# Androd-ProgressBar-circular 
 custom android progressbar
 
 
