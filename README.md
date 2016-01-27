@@ -20,10 +20,10 @@ kusha b k
 
 
 
-line ProgressBar
-Tutorial 
-Android
-android
-ProgressBar in Android
-progress circle bar progress
-code example
+    Horizontal ProgressBar
+    Tutorial 
+   Android
+   android
+   ProgressBar in Android
+   progress circle bar progress
+   code example
