@@ -24,6 +24,6 @@ kusha b k
     Tutorial 
    Android
    android
-   ProgressBar in Android
-   progress circle bar progress
-   code example
+     ProgressBar in Android
+     progress circle bar progress
+      code example
