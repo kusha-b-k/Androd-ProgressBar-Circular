@@ -20,10 +20,4 @@ kusha b k
 
 
 
-    Horizontal ProgressBar
-    Tutorial 
-   Android
-   android
-     ProgressBar in Android
-     progress circle bar progress
-      code example
+    
