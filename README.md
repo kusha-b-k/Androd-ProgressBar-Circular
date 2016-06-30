@@ -9,11 +9,11 @@ android progress bar example
 
 ![alt tag](https://github.com/kusha-b-k/Androd-ProgressBar-Circulear/blob/master/screenshot/kushabk.png)
 
-![alt tag](https://github.com/kusha-b-k/Androd-ProgressBar-Circulear/blob/master/screenshot/kushabk2.png)kushab bk
+![alt tag](https://github.com/kusha-b-k/Androd-ProgressBar-Circulear/blob/master/screenshot/kushabk2.png)
  ![alt tag](https://github.com/kusha-b-k/Androd-ProgressBar-Circulear/blob/master/screenshot/kushabk3.png)
-![alt tag](https://github.com/kusha-b-k/Androd-ProgressBar-Circulear/blob/master/screenshot/kushabk4.png)bk kusha
+![alt tag](https://github.com/kusha-b-k/Androd-ProgressBar-Circulear/blob/master/screenshot/kushabk4.png)
 ![alt tag](https://github.com/kusha-b-k/Androd-ProgressBar-Circulear/blob/master/screenshot/kushabk5.png)
-kusha b k
+
 
 
 
